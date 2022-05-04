@@ -26,7 +26,6 @@ require (
 )
 
 require (
-	github.com/azura-labs/helper v0.0.0-00010101000000-000000000000 // indirect
 	github.com/azura-labs/models v0.0.0-00010101000000-000000000000 // indirect
 	github.com/azura-labs/repositories v0.0.0-00010101000000-000000000000 // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
